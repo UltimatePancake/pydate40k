@@ -8,5 +8,12 @@ setup(name='pydate40k',
       author_email='pier.gaetani@gmail.com',
       description='Return a date in the format of the Imperial Calendar',
       packages=find_packages(exclude=['tests']),
-      long_description=open('README.md').read(),
+      long_description=open('README.md', 'r').read(),
+      long_description_content_type='text/markdown',
+      python_requires='>=3.7',
+      classifiers=[
+          "Programming Language :: Python :: 3",
+          "License :: MIT License",
+          "Operating System :: OS Independent",
+      ],
       zip_safe=False)
