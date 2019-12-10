@@ -15,8 +15,9 @@ setup(name='pydate40k',
       long_description_content_type='text/markdown',
       python_requires='>=3.7',
       classifiers=[
-          "Programming Language :: Python :: 3",
-          "License :: MIT License",
+          "Development Status :: 3 - Alpha",
+          "Programming Language :: Python :: 3.7",
+          "License :: OSI Approved :: MIT License",
           "Operating System :: OS Independent",
       ],
       zip_safe=False)
