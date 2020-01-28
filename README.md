@@ -1,3 +1,7 @@
+[![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png)](http://www.wtfpl.net/)
+
+---
+
 <div style="text-align:center;"><img src="https://vignette1.wikia.nocookie.net/warhammer40k/images/2/29/Aquila.jpg"/></div>
 
 ---
