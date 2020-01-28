@@ -1,4 +1,5 @@
 [![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png)](http://www.wtfpl.net/)
+[![Python Versions](https://img.shields.io/pypi/pyversions/pydate40k.svg)](https://pypi.python.org/pypi/pydate40k/)
 
 ---
 
