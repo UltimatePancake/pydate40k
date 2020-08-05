@@ -6,7 +6,7 @@ with open('README.md', 'r') as fh:
 setup(name='pydate40k',
       version='0.1',
       url='https://github.com/UltimatePancake/pydate40k',
-      license='MIT',
+      license='WTFPL',
       author='Pier Gaetani',
       author_email='pier.gaetani@gmail.com',
       description='Return a date in the format of the Imperial Calendar',
